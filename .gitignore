@@ -1,0 +1,4 @@
+.env
+bot_metrics.db
+redditBot/
+frontend/node_modules/
