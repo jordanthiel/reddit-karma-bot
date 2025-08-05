@@ -170,9 +170,9 @@ The dashboard provides comprehensive monitoring:
 - The bot includes randomized delays and breaks to avoid detection
 - All actions are logged to the SQLite database for monitoring
 - The dashboard shows real-time data from the API
-- Make sure to comply with Reddit's terms of service and API guidelines
+- This does not comply with Reddit's terms of service and API guidelines so use at your own risk. I have not seen the bot get caught yet...
 
----
+--- 
 
 ## 🚀 Next Steps
 
