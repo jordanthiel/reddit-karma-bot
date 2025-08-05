@@ -1,0 +1,4 @@
+.env
+bot_metrics.db
+socialBot/
+frontend/node_modules/
