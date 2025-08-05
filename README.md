@@ -33,14 +33,14 @@ This is an automated engagement bot for Reddit, powered by GPT and Playwright. I
 
 ```bash
 git clone <repository-url>
-cd social-engagement-bot
+cd reddit-karma-bot
 ```
 
 ### 2. Set up Python environment
 
 ```bash
-python -m venv socialBot
-source socialBot/bin/activate  # On Windows: socialBot\Scripts\activate
+python -m venv redditBot
+source redditBot/bin/activate  # On Windows: socialBot\Scripts\activate
 pip install -r requirements.txt
 ```
 
@@ -109,7 +109,7 @@ Visit `http://localhost:3000` to access the real-time dashboard with:
 ## 📂 Project Structure
 
 ```
-social-engagement-bot/
+reddit-karma-bot/
 ├── backend/            # FastAPI API server
 │   ├── app.py         # API endpoints
 │   └── metrics_logger.py
