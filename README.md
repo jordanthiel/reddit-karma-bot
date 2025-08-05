@@ -13,6 +13,9 @@ This is an automated engagement bot for Reddit, powered by GPT and Playwright. I
 - ✅ React dashboard with filters (by platform and date)
 - ✅ Real-time analytics and success rate tracking
 
+  <img width="4388" height="1536" alt="image" src="https://github.com/user-attachments/assets/f9ec3b25-0040-4934-9533-066afbe8128d" />
+
+
 ---
 
 ## 🧰 Requirements
