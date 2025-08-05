@@ -86,6 +86,7 @@ The dashboard will be available at: `http://localhost:3000`
 In a new terminal (make sure you're in the root directory and virtual environment is activated):
 
 ```bash
+source redditBot/bin/activate
 python main.py
 ```
 
