@@ -1,4 +1,4 @@
-# Social Engagement Bot
+# Reddit Karma Bot
 
 This is an automated engagement bot for Reddit, powered by GPT and Playwright. It tracks likes, comments, and follows in a SQLite database, and provides a real-time metrics dashboard built with React and FastAPI.
 
@@ -170,12 +170,13 @@ The dashboard provides comprehensive monitoring:
 - The bot includes randomized delays and breaks to avoid detection
 - All actions are logged to the SQLite database for monitoring
 - The dashboard shows real-time data from the API
-- Make sure to comply with Reddit's terms of service and API guidelines
+- This does not comply with Reddit's terms of service and API guidelines so use at your own risk. I have not seen the bot get caught yet...
 
----
+--- 
 
 ## 🚀 Next Steps
 
 - [ ] Add support for additional platforms (Twitter, LinkedIn, Instagram, etc.)
+- [ ] Add support for posting to subreddits
 - [ ] Add more sophisticated content generation strategies
 
