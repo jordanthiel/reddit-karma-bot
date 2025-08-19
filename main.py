@@ -10,7 +10,7 @@ BREAK_AFTER_ROUNDS = 10
 BREAK_DURATION_HOURS = 3
 
 # Define the subreddits you want the bot to comment on
-SUBREDDITS = ["buildinpublic", "Entrepreneur", "SaaS", "GolfSwing", "golf", "SideProject", "IndieHackers"]
+SUBREDDITS = ["buildinpublic", "Entrepreneur", "SaaS", "golf", "SideProject", "IndieHackers"]
 
 # Track rounds for break scheduling
 round_count = 0
